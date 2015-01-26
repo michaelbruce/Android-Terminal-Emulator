@@ -5,7 +5,7 @@ android {
     buildToolsVersion "21.1.2"
 
     defaultConfig {
-        applicationId "jackpal.androidterm"
+        applicationId "jackpal.androidtermnew"
         minSdkVersion 3
         targetSdkVersion 11
 
