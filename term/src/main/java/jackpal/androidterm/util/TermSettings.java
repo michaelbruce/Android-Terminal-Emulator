@@ -86,7 +86,8 @@ public class TermSettings {
     public static final int GREEN               = 0xff00ff00;
     public static final int AMBER               = 0xffffb651;
     public static final int RED                 = 0xffff0113;
-    public static final int HOLO_BLUE           = 0xff33b5e5;
+    public static final int RAILSCASTS_FG       = 0xffD8D8D8;
+    public static final int RAILSCASTS_BG       = 0xff181818;
     public static final int SOLARIZED_FG        = 0xff657b83;
     public static final int SOLARIZED_BG        = 0xfffdf6e3;
     public static final int SOLARIZED_DARK_FG   = 0xff839496;
@@ -101,7 +102,7 @@ public class TermSettings {
         {GREEN,             BLACK},
         {AMBER,             BLACK},
         {RED,               BLACK},
-        {HOLO_BLUE,         BLACK},
+        {RAILSCASTS_FG,     RAILSCASTS_BG},
         {SOLARIZED_FG,      SOLARIZED_BG},
         {SOLARIZED_DARK_FG, SOLARIZED_DARK_BG},
         {LINUX_CONSOLE_WHITE, BLACK}
